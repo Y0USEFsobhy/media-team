@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/media-team/static/css/main.b314a880.css",
+    "main.js": "/media-team/static/js/main.ef9e80dc.js",
+    "index.html": "/media-team/index.html",
+    "main.b314a880.css.map": "/media-team/static/css/main.b314a880.css.map",
+    "main.ef9e80dc.js.map": "/media-team/static/js/main.ef9e80dc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b314a880.css",
+    "static/js/main.ef9e80dc.js"
+  ]
+}
